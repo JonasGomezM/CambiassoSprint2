@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Lamina Luka Modric",
+        "descripcion": "Lamina panini Qatar 2022 leyenda Croacia Luka Modric",
+        "cantidad": 1,
+        "valor":"Alto",
+        "usuario":"Fernando",
+        "imagen":"/Recursos/1.jpg"
+    },
+    {
+        "nombre": "Lamina Luis Suarez",
+        "descripcion": "Lamina panini Qatar 2022 leyenda Uruguay Luis Suarez",
+        "cantidad": 1,
+        "valor":"Alto",
+        "usuario":"Paula",
+        "imagen":"/Recursos/2.jpg"
+    },
+    {
+        "nombre": "Libro Después",
+        "descripcion": "Después es una novela policial del escritor Stephen King. Fue publicada originalmente el 2 de marzo de 2021 en idioma inglés y el 21 de junio en idioma español.",
+        "cantidad": 3,
+        "valor":"Medio",
+        "usuario":"Andres",
+        "imagen":"/Recursos/3.jfif"
+    },
+    {
+        "nombre": "Libro Dracula",
+        "descripcion": "Drácula, es una novela de fantasía gótica escrita por Bram Stoker, publicada en 1897. ​​ Publicada en castellano por Ediciones Hymsa bajo la colección ‘La novela aventura’ en 1935.",
+        "cantidad": 2,
+        "valor":"Bajo",
+        "usuario":"Luis",
+        "imagen":"/Recursos/4.jfif"
+    }
+]
